@@ -1,0 +1,15 @@
+.gameboard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    height: 100vh;
+}
+.btn-start{
+    display: flex;
+    margin: 20px auto;
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: aqua;
+    border-radius: 50%;
+}
